@@ -22,8 +22,8 @@ This project implements a real-time object detection system using the SSD Mobile
 1. **Clone the repository**
 
    ```sh
-   git clone https://your-repository-url.git
-   cd Real-Time-Object-Detection-System
+   git clone https://github.com/Yonas650/Real-Time-Object-Detection.git
+   cd Real-Time-Object-Detection
 2. **install dependencies**
 
 ```pip install tensorflow opencv-python numpy```
