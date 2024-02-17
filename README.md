@@ -19,14 +19,10 @@ This project implements a real-time object detection system using the SSD Mobile
 
 ### Installation
 
-1. **Clone the repository**
+1. **Clone the repository and open it locally**
 
    ```sh
    git clone https://github.com/Yonas650/Real-Time-Object-Detection.git
-   
-   After cloning, to start working within this repository locally:
-   
-   ```sh 
    cd Real-Time-Object-Detection
    
 2. **install dependencies**
