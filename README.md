@@ -45,6 +45,7 @@ For object recognition and labeling, the mscoco_complete_label_map.pbtxt file is
 ```curl -o mscoco_complete_label_map.pbtxt https://raw.githubusercontent.com/tensorflow/models/master/research/object_detection/data/mscoco_complete_label_map.pbtxt```
 
 5. **Running the Detection System**
+
 To start the object detection system, run the main script:
 
 ```python model.py```
