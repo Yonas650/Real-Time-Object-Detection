@@ -43,7 +43,7 @@ This will create a ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8 directory conta
 
 For object recognition and labeling, the mscoco_complete_label_map.pbtxt file is required. If it's not already in your project directory, download it using:
 
- ```sh curl -o mscoco_complete_label_map.pbtxt https://raw.githubusercontent.com/tensorflow/models/master/research/object_detection/data/mscoco_complete_label_map.pbtxt sh```
+ ```sh curl -o mscoco_complete_label_map.pbtxt https://raw.githubusercontent.com/tensorflow/models/master/research/object_detection/data/mscoco_complete_label_map.pbtxt ```
 
 5. **Running the Detection System**
 
