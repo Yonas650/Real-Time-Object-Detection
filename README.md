@@ -57,6 +57,7 @@ This will activate your webcam and begin detecting objects in real-time. Press q
 - Input Size: 320x320 pixels
 - Training Dataset: COCO 2017
 - Optimization: Optimized for TPU (compatible with CPU and GPU)
+
 **Label Map**
 
 The COCO label map included with this project maps numerical class IDs to human-readable labels, covering 80 object categories such as person, bicycle, car, and many more.
