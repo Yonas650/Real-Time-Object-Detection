@@ -1,4 +1,4 @@
-# Real-Time Object Detection System
+# Real-Time Object Detection
 
 This project implements a real-time object detection system using the SSD MobileNet V2 FPNLite 320x320 model, optimized for efficiency and speed, making it suitable for applications requiring real-time performance on limited computational resources. The model is pre-trained on the COCO 2017 dataset, allowing for the detection of a wide variety of objects with high accuracy.
 
@@ -24,7 +24,7 @@ This project implements a real-time object detection system using the SSD Mobile
    ```sh
    git clone https://github.com/Yonas650/Real-Time-Object-Detection.git
    cd Real-Time-Object-Detection
-   
+
 2. **install dependencies**
 
 ```pip install tensorflow opencv-python numpy```
