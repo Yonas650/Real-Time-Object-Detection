@@ -33,7 +33,7 @@ This project implements a real-time object detection system using the SSD Mobile
 
 The SSD MobileNet V2 FPNLite model, optimized for the COCO dataset and TPU inference, is too large to include directly in this repository. Follow the instructions below to download and set up the model:
 
-- Visit the [TensorFlow Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) and download the SSD MobileNet V2 FPNLite 320x320 model file.
+- Visit the [TensorFlow Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) and download the SSD MobileNet V2 FPNLite 320x320 model file.  [if you have trouble downloading it directly, copy the link address and paste it in a new tab and press enter. It will be automatically downloaded.]
 
 - Extract the downloaded file into the project directory:
 
