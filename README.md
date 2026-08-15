@@ -1,3 +1,6 @@
+
+</think>
+
 # Real-Time Object Detection
 
 This project implements a real-time object detection system using the SSD MobileNet V2 FPNLite 320x320 model, optimized for efficiency and speed, making it suitable for applications requiring real-time performance on limited computational resources. The model is pre-trained on the COCO 2017 dataset, allowing for the detection of a wide variety of objects with high accuracy.
@@ -51,9 +54,11 @@ For object recognition and labeling, the mscoco_complete_label_map.pbtxt file is
 
 To start the object detection system, run the main script:
 
-```python model.py```
+```bash
+python model.py
+```
 
-This will activate your webcam and begin detecting objects in real-time. Press q to quit the detection window.
+This will launch a local Flask server. Open your web browser and navigate to `http://127.0.0.1:5000` to view the real-time object detection feed. Press `Ctrl+C` in the terminal to stop the server.
 
 6. **Model Information**
 
